@@ -1,2 +1,2 @@
-![Coffee](./images/Coffee.jpg)
+![Coffee](./images/Coffee.png)
 
